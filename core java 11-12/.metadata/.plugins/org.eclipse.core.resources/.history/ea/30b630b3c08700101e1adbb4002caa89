@@ -1,0 +1,5 @@
+package com.rays.collection.queue;
+
+public class TestPriorityQueue {
+
+}

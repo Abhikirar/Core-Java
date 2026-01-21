@@ -1,0 +1,12 @@
+package com.rays.oop.constructor;
+
+public class TestShape {
+	public static void main(String[] args) {
+		Circle c = new Circle(6);
+		c.setColor("black");
+		c.setBorderwirdth(6);
+		System.out.println("radius = " + c.getRadius());
+		System.out.println(c.getBorderwridth());
+		System.out.println(c.getColor());
+	}
+}

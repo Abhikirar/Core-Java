@@ -1,0 +1,15 @@
+package com.rays.basics;
+
+public class OddEvenNo {
+public static void main(String[] args) {
+	int [] a= {2,3,4,5,68,9,};
+	for(b:a);
+	if( b%2 ==0) {
+		System.out.println(a+"is even");
+	}else {
+		System.out.println(a+"is odd");
+	}
+	
+	
+}
+}

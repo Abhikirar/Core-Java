@@ -1,0 +1,17 @@
+package com.rays.basics;
+
+public class FrindFruits {
+public static void main(String[] args) {
+	String[]fruits = {"ornage","mango","apple","watermalon","Dragonfruits"};
+	String fruit = "apple";
+	int count = -1;
+	for (int i =0; i<fruits.length; i++) {
+	count = i;
+	System.out.println(count + "=="+ fruits[i]);
+	}
+	if (count == -1) {
+		System.out.println(count);
+	}
+}
+
+}

@@ -1,0 +1,28 @@
+package com.rays.collection.iterator;
+
+import java.util.ArrayList;
+
+import java.util.List;
+
+public class TestIterator {
+	
+public static void main(String[] args) {
+	  
+	
+	List l = new ArrayList();
+	
+	
+	l.add(5);
+	l.add(43);
+	l.add("ram");
+	l.add("abhi");
+	l.add('a');
+	l.add(null);
+	
+	
+	System.out.println(l);
+	
+	iterator it = l.iterator();
+	
+}
+}

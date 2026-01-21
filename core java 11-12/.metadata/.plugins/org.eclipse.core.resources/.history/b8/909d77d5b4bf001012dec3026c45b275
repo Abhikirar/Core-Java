@@ -1,0 +1,8 @@
+package com.rays.basics;
+
+public class BreakExample {
+	public static void main(String[] args) {
+		
+	}
+
+}

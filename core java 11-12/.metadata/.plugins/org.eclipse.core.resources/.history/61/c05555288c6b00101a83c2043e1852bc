@@ -1,0 +1,17 @@
+package com.rays.basics;
+
+public class FindFruit {
+public static void main(String[] args) {
+	String[]fruits = {"Orange","Mango","Waterlon","Drogonfrust","Apple"};
+	String fruit = "Apple";
+	int count = -1;
+	
+	for (int i=0; i<fruit.length i++) {
+		if (fruits == fruit[i]) {
+			
+			
+		}
+	}
+	
+}
+}

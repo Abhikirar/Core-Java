@@ -1,0 +1,13 @@
+package Com.rays.thread;
+
+public class TestHelloThread {
+	public static void main(String[] args) {
+
+		HelloThread t1 = new HelloThread("Neeraj");
+		HelloThread t2 = new HelloThread("lucky");
+		HelloThread t3 = new HelloThread("abhishek");
+		HelloThread t4 = new HelloThread("amit");
+
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.rays.oop.abstrac;
+
+public class TestBusinessman {
+	public static void main(String[] args) {
+		
+		
+		//RichMan r = new Businessman();
+		
+		//r.donation();
+		//r.earnmoney();
+		//r.party();
+		
+		//SocilWorker s = new Businessman();
+	//	s.helptoother();
+		
+		Businessman b = new Businessman();
+		
+		
+		b.donation();
+		b.earnmoney();
+		b.party();
+		b.helptoother();
+
+	}
+}

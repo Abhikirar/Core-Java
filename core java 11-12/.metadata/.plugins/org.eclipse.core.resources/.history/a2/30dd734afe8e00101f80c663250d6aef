@@ -1,0 +1,5 @@
+package Com.rays.thread;
+
+public class TestRunable {
+
+}

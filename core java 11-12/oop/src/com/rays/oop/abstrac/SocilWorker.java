@@ -1,0 +1,6 @@
+package com.rays.oop.abstrac;
+
+public interface SocilWorker {
+	public void helptoother();
+
+}

@@ -1,0 +1,12 @@
+package com.rays.polymorphsim;
+
+public class AxisBank {
+	public static void main(String[] args) {
+		Bank b = new AxisBank();
+		 
+		
+		
+		
+	}
+
+}

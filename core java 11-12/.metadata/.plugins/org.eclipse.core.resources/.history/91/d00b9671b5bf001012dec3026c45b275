@@ -1,0 +1,15 @@
+package com.rays.basics;
+
+public class BreakExample {
+	public static void main(String[] args) {
+		int i = 1 ;
+		for (int i1 = 1; i1<=10; i1++) {
+			if(i1<=6) { 
+				break; //exit the loop 6
+				
+			}
+			System.out.println( "number " + i1);
+		}
+	}
+
+	}

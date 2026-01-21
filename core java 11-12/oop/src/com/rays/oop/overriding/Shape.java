@@ -1,0 +1,28 @@
+package com.rays.oop.overriding;
+
+public class Shape {
+	
+	 protected String color;
+	 protected int borderwidth;
+	public String getColor() {
+		return color;
+	}
+	public void setColor(String color) {
+		this.color = color;
+	}
+	public int getBorderwidth() {
+		return borderwidth;
+	}
+	public void setBorderwidth(int borderwidth) {
+		this.borderwidth = borderwidth;
+	}
+	       public void area() {
+	    	   System.out.println("area not private by child class");
+	    	   
+	       }
+	 
+	   
+	
+	
+
+}
